@@ -1,10 +1,10 @@
 # Hi there, I'm Mohammed Khattab 👋
 
-Welcome to my GitHub profile! I'm a Software Engineer based in Egypt, specializing in Backend development. I’m certified by ALX-Africa, powered by Holberton School Inc. in the USA, and am passionate about becoming a Full-Stack Software Engineer. 
+Welcome to my GitHub profile! I'm a Software Engineer based in Egypt, specializing in Backend development. I’m certified by ALX-Africa, powered by Holberton School Inc., and am passionate about becoming a Full-Stack Software Engineer. 
 
 ## 🔭 Current Work
 
-I'm currently working on an **Ecommerce Web Application**, focusing on building scalable and secure web applications. <!-- Feel free to check it out here: [Project Link].-->
+I'm currently working on an **Ecommerce Web Application**, focusing on building scalable and secure web applications.
 
 ## 🚀 Skills and Technologies
 
@@ -16,8 +16,6 @@ I'm currently working on an **Ecommerce Web Application**, focusing on building 
 ## 🌟 Notable Projects
 
 - **[CodyX](https://github.com/MK-SWE/codyx):** A platform for coding challenges similar to LeetCode, CodeWars, and HackerRank.
-
-<!-- - **[Another Project](Another Project Link):** A brief description of this project and its impact. -->
 
 ## 📫 Get in Touch
 
