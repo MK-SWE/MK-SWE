@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Khattab 👋
 
-Welcome to my GitHub profile! I'm a Software Engineer based in Egypt. I specialize in Backend development and am passionate about becoming a Full-Stack Software Engineer.
+Welcome to my GitHub profile! I'm a Software Engineer based in Egypt, specializing in Backend development. I’m certified by ALX-Africa, powered by Holberton School Inc. in the USA, and am passionate about becoming a Full-Stack Software Engineer. 
 
 ## 🔭 Current Work
 
