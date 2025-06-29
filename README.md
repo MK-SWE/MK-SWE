@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Engineer based in Egypt, specializi
 
 ## 🔭 Current Work
 
-I'm currently working on an **Ecommerce Web Application**, focusing on building scalable and secure web applications.
+I'm currently working on an **ERP System**, focusing on building scalable and secure web applications.
 
 ## 🚀 Skills and Technologies
 
@@ -15,6 +15,7 @@ I'm currently working on an **Ecommerce Web Application**, focusing on building 
 
 ## 🌟 Notable Projects
 
+- **[Inventory Manager](https://github.com/MK-SWE/InventoryManager)** an enterprise-grade Inventory Management System built on ASP.NET Core 8. This is the first module of a comprehensive ERP solution, designed with scalability, maintainability, and security in mind. 
 - **[CodyX](https://github.com/MK-SWE/codyx):** A platform for coding challenges similar to LeetCode, CodeWars, and HackerRank.
 
 ## 📫 Get in Touch
